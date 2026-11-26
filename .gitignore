@@ -1,0 +1,13 @@
+build/
+sdkconfig.old
+.vscode/
+
+dependencies.lock
+sdkconfig
+
+.DS_Store
+
+# Clang files
+.clang-format
+.clang-tidy
+.clangd
